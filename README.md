@@ -112,8 +112,7 @@ We group GUIs by:
 | [HOMER Pro](https://homerenergy.com) | N/A | build-run-analyse (licensed) |
 | [PHOS-UK](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6751106) | N/A | build-run-analyse (unavailable) |
 | [Scenario builder](https://www.transitionzero.org/products/scenario-builder) | [PyPSA](https://github.com/PyPSA/pypsa) / [OSeMOSYS](https://github.com/transition-zero/tz-osemosys) | build-run-analyse (free) |
-| [STELLAR](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2121429&reg=3&lang=2) | N/A | build-run-analyse (unavailable) |
-| [tera-joule](https://tera-joule.com/) | N/A | build-run-analyse (licensed) |
+| [STELLAR](https://youtu.be/p3z8ecdU0IY) | N/A | build-run-analyse (unavailable) |
 | [VAMOS](https://www.tugraz.at/fileadmin/user_upload/tugrazExternal/4778f047-2e50-4e9e-b72d-e5af373f95a4/files/pr/Session_C2/321_PR_Wiedner.pdf) | N/A | build-run-analyse (unavailable) |
 | [VEDA](https://github.com/kanors-emr/Veda2.0-Installation) | [TIMES](https://github.com/etsap-TIMES/TIMES_model) | build-run-analyse (licensed) |
 | [xendee](https://xendee.com/) | N/A | build-run-analyse (licensed) |
