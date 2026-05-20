@@ -92,7 +92,7 @@ We group GUIs by:
 | [Antares Web](https://github.com/AntaresSimulatorTeam/AntaREST) | [Antares](https://github.com/AntaresSimulatorTeam/Antares_Simulator) | build-run-analyse |
 | [Cairn Viewer](https://cea-liten.github.io/CairnOpen/hmi_guide/build_a_problem.html) | [CairnOpen](https://github.com/CEA-Liten/CairnOpen) | build-run-analyse |
 | [calligraph](https://github.com/calliope-project/calligraph) | [Calliope](https://github.com/calliope-project/calliope/) | analyse |
-| [Electrisim](https://github.com/electrisim) | [OpenDSS](https://www.epri.com/pages/sa/opendss) / [pandapower](https://github.com/e2nIEE/pandapower) | build-run-analyse |
+| [Electrisim Community Edition](https://github.com/electrisim) | [OpenDSS](https://www.epri.com/pages/sa/opendss) / [pandapower](https://github.com/e2nIEE/pandapower) | build-run-analyse |
 | [MUIO](https://github.com/OSeMOSYS/MUIO) | [OSeMOSYS](https://github.com/OSeMOSYS/OSeMOSYS) | build-run-analyse |
 | [NLR Engage](https://engage.nlr.gov/en/login/?next=/en/) | [Calliope](https://github.com/calliope-project/calliope/) | build-run-analyse |
 | [OpenDSS](https://www.epri.com/pages/sa/opendss) | N/A | build-run-analyse |
@@ -107,6 +107,7 @@ We group GUIs by:
 | GUI | Modelling framework | Usage |
 | --- | --- | --- |
 | [Convexity](https://www.bayesian.energy/convexity) | [PyPSA](https://github.com/PyPSA/pypsa) | build-run-analyse (licensed) |
+| [Electrisim](https://electrisim.com/) | [OpenDSS](https://www.epri.com/pages/sa/opendss) / [pandapower](https://github.com/e2nIEE/pandapower) | build-run-analyse (licensed) |
 | [GridCog](https://www.gridcog.com/) | N/A | build-run-analyse (licensed) |
 | [HOMER Pro](https://homerenergy.com) | N/A | build-run-analyse (licensed) |
 | [PHOS-UK](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6751106) | N/A | build-run-analyse (unavailable) |
