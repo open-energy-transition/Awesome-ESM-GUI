@@ -110,8 +110,13 @@ We group GUIs by:
 | [Electrisim](https://electrisim.com/) | [OpenDSS](https://www.epri.com/pages/sa/opendss) / [pandapower](https://github.com/e2nIEE/pandapower) | build-run-analyse (licensed) |
 | [GridCog](https://www.gridcog.com/) | N/A | build-run-analyse (licensed) |
 | [HOMER Pro](https://homerenergy.com) | N/A | build-run-analyse (licensed) |
+| [OptGen](https://www.psr-inc.com/en/software/optgen/) | N/A | build-run-analyse (licensed) |
 | [PHOS-UK](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6751106) | N/A | build-run-analyse (unavailable) |
+| [PLEXOS](https://www.energyexemplar.com/plexos) | N/A | build-run-analyse (licensed) |
+| [PowerFactory](https://www.digsilent.de/en/powerfactory.html) | N/A | build-run-analyse (licensed) |
+| [PSS E](https://www.siemens.com/en-gb/products/pss-software/psse/) | N/A | build-run-analyse (licensed) |
 | [Scenario builder](https://www.transitionzero.org/products/scenario-builder) | [PyPSA](https://github.com/PyPSA/pypsa) / [OSeMOSYS](https://github.com/transition-zero/tz-osemosys) | build-run-analyse (free) |
+| [SDDP](https://www.psr-inc.com/en/software/sddp/) | N/A | build-run-analyse (licensed) |
 | [STELLAR](https://youtu.be/p3z8ecdU0IY) | N/A | build-run-analyse (unavailable) |
 | [VAMOS](https://www.tugraz.at/fileadmin/user_upload/tugrazExternal/4778f047-2e50-4e9e-b72d-e5af373f95a4/files/pr/Session_C2/321_PR_Wiedner.pdf) | N/A | build-run-analyse (unavailable) |
 | [VEDA](https://github.com/kanors-emr/Veda2.0-Installation) | [TIMES](https://github.com/etsap-TIMES/TIMES_model) | build-run-analyse (licensed) |
