@@ -10,4 +10,4 @@ A curated collection of graphical user interfaces for creating, running, and ana
 
 This list includes both open-source and proprietary GUIs, for both open-source and proprietary modelling tools.
 
-[![Check Links](https://github.com/org/repo/actions/workflows/links.yml/badge.svg)](https://github.com/open-energy-transition/Awesome-ESM-GUI/actions/workflows/links.yml)
+[![Check Links](https://github.com/open-energy-transition/Awesome-ESM-GUI/actions/workflows/link-check.yml/badge.svg)](https://github.com/open-energy-transition/Awesome-ESM-GUI/actions/workflows/links.yml)
