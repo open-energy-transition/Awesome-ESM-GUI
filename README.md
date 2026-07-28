@@ -127,6 +127,7 @@ These two focus areas can overlap, particularly when considering (linearised) op
 | [pypsa-explorer](https://github.com/open-energy-transition/PyPSA-Explorer) | [PyPSA](https://github.com/PyPSA/pypsa) | analyse | system planning
 | [Spine Toolbox](https://github.com/spine-tools/Spine-Toolbox) | [SpineOpt](https://github.com/spine-tools/SpineOpt.jl) | build-run-analyse | system planning
 | [VeraGrid](https://github.com/SanPen/VeraGrid) | N/A | build-run-analyse | power flow
+| [NYISO toolkit](https://nyisotoolkit.com/dashboard/) | [NYISOToolkit](https://github.com/m4rz910/NYISOToolkit) | analyse | system planning
 
 ## Proprietary GUIs
 
