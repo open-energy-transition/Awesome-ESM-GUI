@@ -125,6 +125,7 @@ These two focus areas can overlap, particularly when considering (linearised) op
 | [PowerGenome](https://gschivley.github.io/PowerGenome-tools/web_app/) | [GenX](https://github.com/genxproject/genx.jl) | build | system planning
 | [PyPSA-App](https://github.com/PyPSA/pypsa-app) | [PyPSA](https://github.com/PyPSA/pypsa) | run-analyse | system planning
 | [pypsa-explorer](https://github.com/open-energy-transition/PyPSA-Explorer) | [PyPSA](https://github.com/PyPSA/pypsa) | analyse | system planning
+| [Ragnarok](https://github.com/iam-hongsanghyun/project-Ragnarok) | [PyPSA](https://github.com/PyPSA/pypsa) | build-run-analyse | system planning
 | [Spine Toolbox](https://github.com/spine-tools/Spine-Toolbox) | [SpineOpt](https://github.com/spine-tools/SpineOpt.jl) | build-run-analyse | system planning
 | [VeraGrid](https://github.com/SanPen/VeraGrid) | N/A | build-run-analyse | power flow
 
