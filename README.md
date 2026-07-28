@@ -121,13 +121,13 @@ These two focus areas can overlap, particularly when considering (linearised) op
 | [Electrisim Community Edition](https://github.com/electrisim) | [OpenDSS](https://www.epri.com/pages/sa/opendss) / [pandapower](https://github.com/e2nIEE/pandapower) | build-run-analyse | power flow
 | [MUIO](https://github.com/OSeMOSYS/MUIO) | [OSeMOSYS](https://github.com/OSeMOSYS/OSeMOSYS) | build-run-analyse | system planning
 | [NLR Engage](https://engage.nlr.gov/en/login/?next=/en/) | [Calliope](https://github.com/calliope-project/calliope/) | build-run-analyse | system planning
+| [NYISO toolkit](https://nyisotoolkit.com/dashboard/) | [NYISOToolkit](https://github.com/m4rz910/NYISOToolkit) | analyse | system planning
 | [OpenDSS](https://www.epri.com/pages/sa/opendss) | N/A | build-run-analyse | power flow
 | [PowerGenome](https://gschivley.github.io/PowerGenome-tools/web_app/) | [GenX](https://github.com/genxproject/genx.jl) | build | system planning
 | [PyPSA-App](https://github.com/PyPSA/pypsa-app) | [PyPSA](https://github.com/PyPSA/pypsa) | run-analyse | system planning
 | [pypsa-explorer](https://github.com/open-energy-transition/PyPSA-Explorer) | [PyPSA](https://github.com/PyPSA/pypsa) | analyse | system planning
 | [Spine Toolbox](https://github.com/spine-tools/Spine-Toolbox) | [SpineOpt](https://github.com/spine-tools/SpineOpt.jl) | build-run-analyse | system planning
 | [VeraGrid](https://github.com/SanPen/VeraGrid) | N/A | build-run-analyse | power flow
-| [NYISO toolkit](https://nyisotoolkit.com/dashboard/) | [NYISOToolkit](https://github.com/m4rz910/NYISOToolkit) | analyse | system planning
 
 ## Proprietary GUIs
 
