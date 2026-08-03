@@ -135,7 +135,6 @@ These two focus areas can overlap, particularly when considering (linearised) op
 | [Convexity](https://www.bayesian.energy/convexity) | [PyPSA](https://github.com/PyPSA/pypsa) | build-run-analyse (licensed) | system planning
 | [Electrisim](https://electrisim.com/) | [OpenDSS](https://www.epri.com/pages/sa/opendss) / [pandapower](https://github.com/e2nIEE/pandapower) | build-run-analyse (licensed) | power flow
 | [GridCog](https://www.gridcog.com/) | N/A | build-run-analyse (licensed) | system planning
-| [GridOS](https://www.gevernova.com/software/industry/grid) | N/A |  build-run-analyse (licensed) | operation
 | [HOMER Software](https://homerenergy.com) | N/A | build-run-analyse (licensed) | system planning
 | [OptGen](https://www.psr-inc.com/en/software/optgen/) | N/A | build-run-analyse (licensed) | system planning
 | [PHOS-UK](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6751106) | N/A | build-run-analyse (unavailable) | system planning
